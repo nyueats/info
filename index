@@ -1,1 +1,19 @@
-<p>this is the site</p>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+<style>
+h1 {
+    font-family: 'Sofia';font-size: 22px;
+}
+	p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";font-size: 22px;
+}
+</style>
+</head>
+<body>
+<div style="width: 1920px; height: 1080px;">
+<h1>Sofia</h1>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+</div>
+</body>
+</html>
